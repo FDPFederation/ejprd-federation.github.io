@@ -1,0 +1,8 @@
+jupyter-book
+matplotlib
+rdflib
+pandas
+requests
+PyYAML
+IPython
+shexer
