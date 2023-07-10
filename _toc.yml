@@ -1,0 +1,17 @@
+format: jb-book
+parts:
+- caption: Document-hosted FDPs
+  chapters:
+  - file: stepByStepHowto/DocumentHostedImplementation/introduction.md
+  - file: stepByStepHowto/DocumentHostedImplementation/settingup.md
+- caption: Software-hosted FDPs
+  chapters:
+  - file: stepByStepHowTo/SoftwareHostedImplementation/introduction.md
+- caption: FDPs listed on https://index.vp.ejprarediseases.org
+  chapters:
+  - file: fdpHarvest.ipynb
+- caption: FDPs listed on https://fdps.ejprd.semlab-leiden.nl/ (test server)
+  chapters:
+  - file: fdptestHarvest.ipynb
+
+root: index
